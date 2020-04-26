@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carlfjones/nodejsbasics/issues"
   },
-  "homepage": "https://github.com/carlfjones/nodejsbasics#readme"
+  "homepage": "https://github.com/carlfjones/nodejsbasics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
