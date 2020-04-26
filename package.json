@@ -1,0 +1,19 @@
+{
+  "name": "nodejsbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlfjones/nodejsbasics.git"
+  },
+  "author": "Carl FJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlfjones/nodejsbasics/issues"
+  },
+  "homepage": "https://github.com/carlfjones/nodejsbasics#readme"
+}
